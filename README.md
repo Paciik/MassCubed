@@ -3,6 +3,9 @@ MassCubed
 
 WIP - Minecraft mod
 
-Mod that can create mass/matter from computing math algorisms and turn them into any matter in the world
-This whould contain multiblock structure, that is similar to real data centers/server rooms.
-It must be cooled, safe from the fire and it eat some energy too. Feel free to post some ideas
+An endgame mod that allows you to create anything you want using complex computer systems with special algorithms.
+This mod will add a big multiblock structure that is similar to real-life supercomputer halls. This multiblock structure will have to be on the right temperature - no overheating, no fires and it'll also eat a whole lot of energy.
+
+License:
+
+This mod is licensed under the MMPL - Minecraft Mod Public License version 1.0.1 http://www.mod-buildcraft.com/MMPL-1.0.txt
